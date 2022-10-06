@@ -1,0 +1,6 @@
+tensorflow
+werkzeug
+Flask
+numpy
+Pillow
+gunicorn
